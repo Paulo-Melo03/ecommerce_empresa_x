@@ -44,3 +44,5 @@ __Melhoria 1__, _melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/Paulo-Melo03
+
+[![Logo do PHP](https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png)](https://www.github.com/Paulo-Melo03)
